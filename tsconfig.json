@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "lib": ["es2015", "dom"],
+    "rootDir": "./",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "target": "ES6",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "alwaysStrict": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
